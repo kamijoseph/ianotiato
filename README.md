@@ -1,46 +1,39 @@
-# Hi there, I’m <Your Name> 👋
+# Ian Otiato  
+☕ Powered by caffeine and curiosity.
 
-**Aspiring AI Engineer | Data Enthusiast | Lifelong Learner**
+## About Me  
+I’m Ian — a passionate builder at the intersection of web, data and machine-learning.  
+Currently exploring how AI and sustainable development can meet (check my “AI-Sustainable-Development” project).  
+🎯 I believe in *“progress through purpose”* — building code that not only runs, but matters.
 
-- 🔭 Currently working on: Mastering AI tools—TensorFlow, PyTorch, Scikit‑learn & spaCy  
-- 🌱 Learning: Deep Learning, Natural Language Processing & Fairness in AI  
-- 👯 Open to collaborating on: AI/ML projects, Data Science pipelines, Open-source contributions  
-- 💬 Ask me about: Python, ML model development, NLP, deployment with Streamlit  
-- 📫 How to reach me: [LinkedIn](<your-linkedin-url>) | [Twitter/X](<your-twitter-handle>)  
-- ⚡ Fun fact: I transformed from classic ML to deep learning, and now I’m building real-world AI applications.
+## My Focus Areas  
+- **Web & Full-stack** – HTML5, CSS3, JavaScript, responsive UI &UX  
+- **Machine Learning & Data Science** – Python, pandas, scikit-learn, prototype → proof-of-concept  
+- **Sustainability & Social Impact** – using code to address UN SDG 13 (Climate Action) and related challenges  
+- **Continuous Learning & Collaboration** – open source, peer review, shared growth  
 
----
+## Skills & Tools  
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | `Python`, `JavaScript`, `HTML`, `CSS` |
+| **Frameworks & Libraries** | `Django`, `Flask`, `scikit-learn`, `TensorFlow` |
+| **Tools & Platforms** | `Git`, `GitHub`, `Linux/Ubuntu`, `VS Code` |
+| **Concepts** | Data Wrangling, ML Pipelines, Web APIs, Sustainable Development Goals |
 
-## 🔧 Skills
+## 📌 Projects I’m Proud of  
+- **Mini E-Learning Platform** — A basic web platform built as part of my AI coursework.  
+- **AI-Sustainable-Development** — A machine learning solution for predicting carbon emissions (aligned with SDG 13).  
+- **Men’s Wellness Hub** — A web dev project focusing on wellness awareness and community support.  
 
-| Category              | Tools & Frameworks                             |
-|-----------------------|------------------------------------------------|
-| Programming           | Python, Git, Bash                             |
-| Classical ML          | Scikit-learn, Decision Trees, SVMs            |
-| Deep Learning         | TensorFlow, PyTorch, CNNs, Transfer Learning  |
-| NLP & Text Analytics  | spaCy, NLTK, Named Entity Recognition         |
-| Deployment            | Streamlit, Flask, GitHub Actions              |
-| Ethics & Fairness     | Bias mitigation, Fairness Indicators          |
+_(Check the pinned repositories above for direct links.)_
 
----
-
-## 🧪 Featured Projects
-
-Here are some of my recent work (blocks link to repositories):
-
-- **[Iris Species Classifier](<repo-url-1>)** – Classical ML with Scikit-learn to classify Iris flowers.  
-- **[MNIST Digit Recognizer](<repo-url-2>)** – Convolutional Neural Network built with TensorFlow, reached >95% accuracy.  
-- **[NLP Review Analyzer](<repo-url-3>)** – spaCy-based Named Entity Recognition + rule-based sentiment analysis for Amazon reviews.  
-- **[Streamlit MNIST Demo](<repo-url-4>)** – Web interface to interact with the MNIST model live.
+## Let’s Connect  
+If you’d like to collaborate, share ideas or just chat about AI & impact, feel free to reach out:  
+[GitHub](https://github.com/ianotiato) · [LinkedIn](https://www.linkedin.com/in/YourLinkedInHere) · [Email](mailto:youremail@example.com)  
 
 ---
 
-## 🎯 My Goals
+> “Progress through purpose.”  
+> — Ian Otiato  
 
-1. Build end-to-end AI applications from data ingestion to deployment.  
-2. Contribute to open-source AI frameworks and tools.  
-3. Ensure AI systems are fair, transparent & responsibly built.
-
----
-
-Thanks for stopping by! Feel free to say hello. 😊  
+(*Thanks for visiting my corner of GitHub — happy coding worthy of the world.*)
